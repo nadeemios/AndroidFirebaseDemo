@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "135858325543",
+    "firebase_url": "https://mydemoapp111111.firebaseio.com",
+    "project_id": "mydemoapp111111",
+    "storage_bucket": "mydemoapp111111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135858325543:android:bdc9dca36ad08cc3",
+        "android_client_info": {
+          "package_name": "daffolap.com.androidfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135858325543-i22pavosanisaqvn4lkk553estkjhbot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "daffolap.com.androidfirebasedemo",
+            "certificate_hash": "f12f73ebddce9887c6f0382581c3e72da1a93240"
+          }
+        },
+        {
+          "client_id": "135858325543-dkg2ltqg75kd05mu2f5otolb52v3u9pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJbpiq5IUES42wjNfhhtpeJ75zmdGCMco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135858325543-dkg2ltqg75kd05mu2f5otolb52v3u9pr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135858325543-7knvds5397dq25ljueqknm7v17nebc8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebaseiosdemo.com"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
